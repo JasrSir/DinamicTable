@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DinamicTable</string>
+    <string name="txvId">Id</string>
+    <string name="txvName">Nombre</string>
+    <!--String-Array definition. The string-Array MUST BE PERMANENT-->
+    <string-array name="listName">
+        <item>Juan Antonio Suarez</item>
+        <item>Yo era malo y viví</item>
+        <item>Penencio Littlencio</item>
+        <item>Cuida de tí, Garnier</item>
+        <item>Colacao, siempre en forma</item>
+        <item>Mama me pica ahí</item>
+        <item>Nena, toma vaginesil</item>
+        <item>Juan Antonio Suarez</item>
+        <item>Yo era malo y viví</item>
+        <item>Penencio Littlencio</item>
+        <item>Cuida de tí, Garnier</item>
+        <item>Colacao, siempre en forma</item>
+        <item>Mama me pica ahí</item>
+        <item>Nena, toma vaginesil</item>
+        <item>Juan Antonio Suarez</item>
+        <item>Yo era malo y viví</item>
+        <item>Penencio Littlencio</item>
+        <item>Cuida de tí, Garnier</item>
+        <item>Colacao, siempre en forma</item>
+        <item>Mama me pica ahí</item>
+        <item>Nena, toma vaginesil</item>
+    </string-array>
+</resources>
